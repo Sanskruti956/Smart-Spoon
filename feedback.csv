@@ -1,0 +1,61 @@
+user_id,feedback_text,food_type,user_condition,usage_duration_days
+1,The spoon works well but the salt sensation is too weak for my biryani.,biryani,hypertension,5
+2,Great product! I can enjoy my food without worrying about my blood pressure.,general,hypertension,30
+3,Battery life is too short and the stimulation feels inconsistent.,general,elderly,3
+4,The app is confusing to use. Couldn't figure out how to adjust settings for different foods.,general,general,10
+5,"Amazing technology! As someone with kidney disease, I can finally enjoy flavorful meals again.",general,kidney disease,60
+6,The handle is uncomfortable to hold for longer meals. Could be more ergonomic.,general,elderly,45
+7,"Stimulation level for rice dishes seems inaccurate, but works well for soups.",rice,heart disease,20
+8,I wish it could detect more types of food automatically. It doesn't recognize my cultural dishes.,ethnic food,general,7
+9,"The taste sensation feels artificial. Not really like salt, more like a weird tingling.",general,diabetes,15
+10,Sometimes it gives too strong stimulation which ruins the meal experience.,general,hypertension,4
+11,"The flavor enhancement is noticeable, but the device can be a bit noisy.",general,hypertension,12
+12,"I love how it enhances my soups, but it doesn't work well with desserts.",soup,diabetes,25
+13,"The product is great, but it could use some more customization options.",general,elderly,15
+14,I find it difficult to clean after using it with oily foods.,general,kidney disease,8
+15,The spice levels are perfect for my curry dishes!,curry,heart disease,40
+16,It would be better if it had a built-in timer for cooking.,general,general,22
+17,"I appreciate the adjustable settings, but the instructions are unclear.",general,hypertension,18
+18,"The taste is authentic, but it doesn't last long enough.",general,diabetes,7
+19,"It's a lifesaver for my bland meals, but the battery drains quickly.",general,elderly,30
+20,I wish it could remember my favorite settings for different foods.,general,kidney disease,14
+21,"The saltiness is just right for my pasta dishes, but it's hard to adjust.",pasta,heart disease,11
+22,"I enjoy using it for my salads, but it sometimes over-stimulates.",salad,general,5
+23,"The feedback is helpful, but I wish it had a better design.",general,hypertension,9
+24,"It's perfect for my grilled vegetables, but the battery life is disappointing.",vegetables,diabetes,20
+25,"I love the convenience, but it can be a bit bulky to store.",general,elderly,35
+26,"The flavor boost is amazing, but it doesn't work well with rice.",rice,kidney disease,19
+27,"Great for enhancing my breakfast dishes, but the app needs improvement.",breakfast,heart disease,16
+28,"The device is easy to use, but I wish it had more food options.",general,general,12
+29,"It adds a nice kick to my tacos, but the noise can be distracting.",tacos,hypertension,27
+30,"I find it useful for my smoothies, but it doesn't blend well.",smoothie,diabetes,10
+31,"The taste is enhanced, but the device feels cheap.",general,elderly,4
+32,"I enjoy using it for desserts, but it can be too sweet at times.",dessert,kidney disease,8
+33,"It's great for my stir-fried dishes, but the battery life is short.",stir fry,heart disease,21
+34,"I love the flavor it adds to my meals, but it can be tricky to clean.",general,general,13
+35,"The product is fantastic, but I wish it had a larger capacity.",general,hypertension,6
+36,"I appreciate the health benefits, but it can be overwhelming at times.",general,diabetes,17
+37,"The flavor is authentic, but it doesn't work with all food types.",general,elderly,3
+38,"I love how it enhances my snacks, but it needs a better interface.",snack,kidney disease,29
+39,"It's great for my grilled meats, but the instructions are confusing.",meat,heart disease,26
+40,"The product is a game changer for my meals, but it can be temperamental.",general,general,23
+41,"I enjoy using it for my breakfast, but it sometimes malfunctions.",breakfast,hypertension,9
+42,"The flavor enhancement is fantastic, but the device is heavy.",general,diabetes,18
+43,"I love the convenience, but it takes a while to charge.",general,elderly,15
+44,"It's perfect for my pasta, but I wish it had a longer battery life.",pasta,kidney disease,11
+45,"The taste is improved, but the device can be hard to handle.",general,heart disease,30
+46,"Great for my salads, but the stimulation can be too much at times.",salad,general,5
+47,"The product works well, but I wish it could detect more food types.",general,hypertension,14
+48,"I love how it enhances my dishes, but it can be noisy during use.",general,diabetes,7
+49,"It's a great addition to my kitchen, but I find it difficult to clean.",general,elderly,22
+50,"The flavor boost is noticeable, but I wish it had more settings.",general,kidney disease,19
+51,"It's fantastic for my curries, but the battery life is lacking.",curry,heart disease,20
+52,"I appreciate the ease of use, but it can be a bit bulky.",general,general,10
+53,"It's great for my soups, but it doesn't work well with cold dishes.",soup,hypertension,8
+54,"The stimulation is just right, but I wish it had a better design.",general,diabetes,12
+55,"I enjoy using it for my tacos, but it can be hard to store.",tacos,elderly,27
+56,"The flavor enhancement is amazing, but I wish it had a larger capacity.",general,kidney disease,15
+57,"It's perfect for my stir-fry, but the battery drains quickly.",stir fry,heart disease,30
+58,"I love the taste it adds, but it can be overwhelming at times.",general,general,13
+59,"The product is a lifesaver, but the instructions are unclear.",general,hypertension,9
+60,"I wish it could remember my favorite settings, but overall it's good.",general,diabetes,6
